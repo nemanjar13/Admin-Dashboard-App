@@ -60,10 +60,11 @@ export const CompanyList = ({ children }: React.PropsWithChildren) => {
         <CreateButton 
           onClick={() => {
             go({
-              to: {
-                resource: 'companies',
-                action: 'create'
-              },
+              to: '/companies/new', // fixes the bug with the incorrect url
+              // to: {
+              //   resource: 'companies',
+              //   action: 'create'
+              // },
               options: {
                 keepQuery: true
               },
