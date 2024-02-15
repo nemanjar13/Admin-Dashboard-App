@@ -6,7 +6,7 @@ import ProjectCard, { ProjectCardMemo } from '@/components/tasks/kanban/card'
 import KanbanItem from '@/components/tasks/kanban/item'
 import { UPDATE_TASK_MUTATION } from '@/graphql/mutations'
 import { TASKS_QUERY, TASK_STAGES_QUERY } from '@/graphql/queries'
-import { TaskStage } from '@/graphql/schema.types'
+import { Task, TaskStage } from '@/graphql/schema.types'
 import { TasksQuery } from '@/graphql/types'
 import { DragEndEvent } from '@dnd-kit/core'
 import { useList, useNavigation, useUpdate } from '@refinedev/core'
@@ -70,7 +70,7 @@ const List = ({ children }: React.PropsWithChildren) => {
 
         const grouped: TaskStage[] = stages.data.map((stage) => ({
             ...stage,
-            tasks: tasks.data.filter((task) => task?.stageId?.toString() === stage.id)
+            tasks: tasks.data.filter((task) => task?.stageId?.toString() === stage.id) as Task[]
         }))
     
         return {
