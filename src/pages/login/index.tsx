@@ -6,6 +6,8 @@ export const Login = () => {
     <AuthPage
       type="login"
       registerLink={false}
+      forgotPasswordLink={false}
+      rememberMe={false}
       formProps={{
         initialValues: authCredentials,
       }}
