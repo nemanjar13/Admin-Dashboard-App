@@ -1,50 +1,17 @@
-# admin-dashboard-app
+# Welcome to Our Admin Dashboard Application!
 
-<div align="center" style="margin: 30px;">
-    <a href="https://refine.dev">
-    <img alt="refine logo" src="https://refine.ams3.cdn.digitaloceanspaces.com/readme/refine-readme-banner.png">
-    </a>
-</div>
-<br/>
+## Overview
+This is a mock version of admin dashboard application and it is designed to empower users with a robust and intuitive platform for managing and visualizing data efficiently. With a focus on real-time synchronization and collaboration, the application brings a seamless and enjoyable experience to your fingertips.
 
-This [Refine](https://github.com/refinedev/refine) project was generated with [create refine-app](https://github.com/refinedev/refine/tree/master/packages/create-refine-app).
+## Features
+### Authentication Mechanisms
+Our application boasts full authentication mechanisms, ensuring that your data is secure and accessible only to authorized users. Feel confident in the protection of your information. For the purposes of the demo, and with focus being on other features, at this stage login is preset for everyone who wants to try out this app. This feature will be updated in the future!
 
-## Getting Started
+### Dynamic Home Page
+Experience a dynamic home page that goes beyond the ordinary. Data visualization is integrated through charts, providing real-time insights into upcoming events and showcasing the latest activities. Stay informed at a glance!
 
-A React Framework for building internal tools, admin panels, dashboards & B2B apps with unmatched flexibility ✨
+### Companies Tracker
+Navigate the Companies Page effortlessly. This technology allows for efficient data retrieval and manipulation, making managing company information a breeze. Search capabilities are seamlessly integrated, offering a user-friendly experience.
 
-Refine's hooks and components simplifies the development process and eliminates the repetitive tasks by providing industry-standard solutions for crucial aspects of a project, including authentication, access control, routing, networking, state management, and i18n.
-
-## Available Scripts
-
-### Running the development server.
-
-```bash
-    npm run dev
-```
-
-### Building for production.
-
-```bash
-    npm run build
-```
-
-### Running the production server.
-
-```bash
-    npm run start
-```
-
-## Learn More
-
-To learn more about **Refine**, please check out the [Documentation](https://refine.dev/docs)
-
-- **NestJS Query Data Provider** [Docs](https://refine.dev/docs/core/providers/data-provider/#overview)
-- **Ant Design** [Docs](https://refine.dev/docs/ui-frameworks/antd/tutorial/)
-- **React Router** [Docs](https://refine.dev/docs/core/providers/router-provider/)
-- **Custom Auth Provider** [Docs](https://refine.dev/docs/core/providers/auth-provider/)
-
-
-## License
-
-MIT
+### Kanban Board Page
+Boost your project management efforts with our Kanban Board page. Enjoy full CRUD operations support, ensuring an intuitive and flexible tool for managing projects efficiently. Stay organized and keep your projects on track with ease.
