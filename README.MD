@@ -3,21 +3,7 @@
 ## Overview
 This is a mock version of admin dashboard application and it is designed to empower users with a robust and intuitive platform for managing and visualizing data efficiently. With a focus on real-time synchronization and collaboration, the application brings a seamless and enjoyable experience to your fingertips. 
 
-## Getting Started
-
-### Authentication:
-Log in securely to access the full range of features.
-
-### Explore the Home Page:
-Gain real-time insights into upcoming events and stay updated on the latest activities.
-
-### Navigate the Companies Page:
-Efficiently manage mock company information and test its search capabilities.
-
-### Project Management with Kanban Board:
-Use the Kanban Board for a visual and intuitive approach to project management, supporting differetn types of operations.
-
-### Try the app [here](https://admin-dashboard-r88tygn0l-nemanjar13.vercel.app)!
+### Try it yourself [here](https://admin-dashboard-r88tygn0l-nemanjar13.vercel.app)!
 
 ## Features
 ### Authentication Mechanisms
@@ -32,7 +18,20 @@ Navigate the Companies Page effortlessly. This technology allows for efficient d
 ### Kanban Board Page
 Boost your project management efforts with our Kanban Board page. Enjoy full CRUD operations support, ensuring an intuitive and flexible tool for managing projects efficiently. Stay organized and keep your projects on track with ease.
 
-## Demo
+
+## Getting Started
+
+### Authentication:
+Log in securely to access the full range of features.
+
+### Explore the Home Page:
+Gain real-time insights into upcoming events and stay updated on the latest activities.
+
+### Navigate the Companies Page:
+Efficiently manage mock company information and test its search capabilities.
+
+### Project Management with Kanban Board:
+Use the Kanban Board for a visual and intuitive approach to project management, supporting differetn types of operations.
 
 ![](https://github.com/nemanjar13/Admin-Dashboard-App/blob/main/Demo-pt1.gif)
 
