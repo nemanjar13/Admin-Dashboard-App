@@ -1,7 +1,7 @@
 # Welcome to Our Admin Dashboard Application!
 
 ## Overview
-This is a mock version of admin dashboard application and it is designed to empower users with a robust and intuitive platform for managing and visualizing data efficiently. With a focus on real-time synchronization and collaboration, the application brings a seamless and enjoyable experience to your fingertips.
+This is a mock version of admin dashboard application and it is designed to empower users with a robust and intuitive platform for managing and visualizing data efficiently. With a focus on real-time synchronization and collaboration, the application brings a seamless and enjoyable experience to your fingertips. Try the app [here](https://admin-dashboard-app-gamma.vercel.app/login).
 
 ## Features
 ### Authentication Mechanisms
