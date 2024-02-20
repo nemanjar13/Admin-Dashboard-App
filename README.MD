@@ -15,3 +15,17 @@ Navigate the Companies Page effortlessly. This technology allows for efficient d
 
 ### Kanban Board Page
 Boost your project management efforts with our Kanban Board page. Enjoy full CRUD operations support, ensuring an intuitive and flexible tool for managing projects efficiently. Stay organized and keep your projects on track with ease.
+
+## Demo
+
+!()[https://github.com/nemanjar13/Admin-Dashboard-App/blob/main/Demo-pt1.gif]
+
+!()[https://github.com/nemanjar13/Admin-Dashboard-App/blob/main/Demo-pt2.gif]
+
+!()[https://github.com/nemanjar13/Admin-Dashboard-App/blob/main/Demo-pt3.gif]
+
+!()[https://github.com/nemanjar13/Admin-Dashboard-App/blob/main/Demo-pt4.gif]
+
+!()[https://github.com/nemanjar13/Admin-Dashboard-App/blob/main/Demo-pt5.gif]
+
+!()[https://github.com/nemanjar13/Admin-Dashboard-App/blob/main/Demo-pt6.gif]
